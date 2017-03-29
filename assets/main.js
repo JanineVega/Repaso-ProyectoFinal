@@ -4,6 +4,6 @@ window.onload=function(){
   });
 
   document.getElementById("login").addEventListener("click",function(){
-    window.location.href="editar.html";
+    window.location.href="iniciarSession.html";
   });
 };
