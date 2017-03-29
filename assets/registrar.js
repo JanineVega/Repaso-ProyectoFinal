@@ -1,5 +1,4 @@
 window.onload=function(){
-
   function Registrando(nombre,apellido,correo,contrasena){
     this.nombre=nombre;
     this.apellido=apellido;
